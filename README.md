@@ -1,6 +1,8 @@
-To activate full overclock features, don't forget to add following parameter to your hekate.ipl config of your EMUMMC:
+To activate full overclock features it is neccessary to activate kip loader in your hekate.ipl config of your EMUMMC:
 
    kip1=atmosphere/kips/loader.kip
+
+If you do not want to adjust it, it's added a customized "emuMMC mit OC.ini" and can be loaded from Hekate "More Config" menu.
 
 It is a bundle based on following repositories:
 
