@@ -8,6 +8,7 @@ If you do not want to adjust it manually, you can use the "RamPatcher: MGCL/MGCR
 
 It is a bundle based on following repositories:
 
+https://github.com/CTCaer/hekate/ </br>
 https://github.com/halop/OC-Switchcraft-EOS/ </br>
 https://github.com/ppkantorski/Ultrahand-Overlay </br>
 https://github.com/masagrator/SaltyNX </br>
