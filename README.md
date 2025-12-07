@@ -4,7 +4,8 @@ To activate full overclock features it is neccessary to activate kip loader in y
 
 > **kip1=atmosphere/kips/loader.kip**
 
-If you do not want to adjust it manually, you can use the "RamPatcher: MGCL/MGCR inkl. OC - 4GB" in Ultrahand menu.
+If you do not want to adjust it manually, you can use the "RamPatcher: MGCL/MGCR inkl. OC - 4GB" in Ultrahand menu. It replaces
+the hekate.ipl and add a new ini to "More Configs".
 
 It is a bundle based on following repositories:
 
