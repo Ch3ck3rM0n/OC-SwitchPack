@@ -17,3 +17,5 @@ https://github.com/ppkantorski/nx-ovlloader </br>
 https://github.com/ppkantorski/Status-Monitor-Overlay </br>
 https://github.com/masagrator/FPSLocker </br>
 https://github.com/masagrator/ReverseNX-RT </br>
+https://github.com/ppkantorski/sys-clk </br>
+https://github.com/ppkantorski/Memory-Kit </br>
